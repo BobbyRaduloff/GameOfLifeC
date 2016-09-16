@@ -2,7 +2,9 @@
 Simple Game of Life implementation in C
 
 ## Building
-Regular stuff. Run `make` and `sudo make install`.
+Make sure you have the sdl2 library installed.
+Run `make` and `sudo make install`.
+Run `sudo make delete` to remove it.
 
 ## TODO
 Add proper SDL error checking.
